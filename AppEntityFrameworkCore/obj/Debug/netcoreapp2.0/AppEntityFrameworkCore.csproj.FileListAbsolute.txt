@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\AppEntityFrameworkCore\AppEntityFrameworkCore\bin\Debug\netcoreapp2.0\AppEntityFrameworkCore.deps.json
+C:\Users\Usuario\source\repos\AppEntityFrameworkCore\AppEntityFrameworkCore\bin\Debug\netcoreapp2.0\AppEntityFrameworkCore.runtimeconfig.json
+C:\Users\Usuario\source\repos\AppEntityFrameworkCore\AppEntityFrameworkCore\bin\Debug\netcoreapp2.0\AppEntityFrameworkCore.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\AppEntityFrameworkCore\AppEntityFrameworkCore\bin\Debug\netcoreapp2.0\AppEntityFrameworkCore.dll
+C:\Users\Usuario\source\repos\AppEntityFrameworkCore\AppEntityFrameworkCore\obj\Debug\netcoreapp2.0\AppEntityFrameworkCore.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\AppEntityFrameworkCore\AppEntityFrameworkCore\obj\Debug\netcoreapp2.0\AppEntityFrameworkCore.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\AppEntityFrameworkCore\AppEntityFrameworkCore\obj\Debug\netcoreapp2.0\AppEntityFrameworkCore.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\AppEntityFrameworkCore\AppEntityFrameworkCore\obj\Debug\netcoreapp2.0\AppEntityFrameworkCore.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\AppEntityFrameworkCore\AppEntityFrameworkCore\bin\Debug\netcoreapp2.0\AppEntityFrameworkCore.pdb
+C:\Users\Usuario\source\repos\AppEntityFrameworkCore\AppEntityFrameworkCore\obj\Debug\netcoreapp2.0\AppEntityFrameworkCore.dll
+C:\Users\Usuario\source\repos\AppEntityFrameworkCore\AppEntityFrameworkCore\obj\Debug\netcoreapp2.0\AppEntityFrameworkCore.pdb
